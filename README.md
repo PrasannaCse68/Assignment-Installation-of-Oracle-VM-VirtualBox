@@ -1,8 +1,8 @@
 # Assignment: Installation of Oracle VM VirtualBox
 
 
-### Name : Lokesh K
-### Reg. No: 212222040087
+### Name : Prasanna G R
+### Reg. No: 212221040129
 
 
 ## Aim
